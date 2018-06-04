@@ -93,7 +93,7 @@ namespace HTQuanLyXe.GUI
 
         private void pictureBox1_Click(object sender, EventArgs e)
         {
-            /// thu nhgiem main
+            /// thu nhgiem main chinh
         }
     }
 
